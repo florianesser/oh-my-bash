@@ -186,3 +186,5 @@ elif [[ -s /Applications/Preview.app ]]; then
 else
   PREVIEW="less"
 fi
+
+export PAGER=
